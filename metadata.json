@@ -1,0 +1,6 @@
+{
+  "name": "UI Code",
+  "description": "Convert visual UI screenshots into highly polished, fully responsive, interactive HTML and Tailwind CSS code with live browser previews using Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

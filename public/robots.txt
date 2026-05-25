@@ -1,0 +1,8 @@
+# robots.txt for UICode
+User-agent: *
+Allow: /
+
+# Prevent scanning of direct API routes in web search crawls
+Disallow: /api/
+
+Sitemap: https://github.com/mohammedzte0/screenshot-to-code/sitemap.xml
